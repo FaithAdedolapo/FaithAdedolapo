@@ -31,8 +31,8 @@ When I am not working with data, I enjoy podcasting, creating language contents,
 
 ## 🌱 Currently Learning 
 
-- Data Science
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Tableau
+- Phython
 
 ## 🛠️ Technical Skillset
 
