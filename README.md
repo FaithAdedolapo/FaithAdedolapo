@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I am a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a Business and Data Analyst with 3 years of experience in the banking sector, where I have helped organizations leverage data to make smarter, evidence-based decisions. My expertise lies in uncovering hidden trends, analyzing customer behavior, optimizing processes, and translating complex datasets into actionable insights that drive measurable results.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I thrive at the intersection of business and data, asking the right questions, paying attention to details, and delivering solutions that create real impact. Whether it is designing reports, building dashboards, or developing data-driven strategies, I am passionate about turning information into clear, practical insights that empower teams and leaders to make informed decisions.
 
-When I am not working with data, I enjoy podcasting, creating language content, reading literature, and mentoring others. 
+Collaboration, curiosity, and results guide my work, and I am always seeking opportunities to apply my analytical skills to meaningful projects that advance business goals and innovation.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://faithadedolapo.github.io/)
